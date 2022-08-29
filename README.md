@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dagem Alemseged Woldeyohannes
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning computer science
+- 👀 I am a full stack software engineer
+- 🌱 Front-end :- React Js, Vue Js / Back-end :- Node Js, Django
 - 📫 How to reach me ... (dagem.alemseged1@gmail.com)
 
 <!---
