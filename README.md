@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dagem Alemseged Woldeyohannes
-- 👀 I am a full stack software engineer
-- 🌱 Front-end :- React Js, Vue Js / Back-end :- Node Js, Django
+- 👋 Hi, I’m Dagem A. Woldeyohannes
+- 👀 I am a front-end software engineer
+- 🌱 Frameworks :- React Js
 - 📫 How to reach me ... (dagem.alemseged1@gmail.com)
 
 <!---
