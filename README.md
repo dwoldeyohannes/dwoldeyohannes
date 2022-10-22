@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dagem A. Woldeyohannes
-- 👀 I am a front-end software engineer
-- 🌱 Frameworks :- React Js
+- 👀 I am a CS undergrad sophomore
+- 🌱 Check out my projects!
 - 📫 How to reach me ... (dagem.alemseged1@gmail.com)
 
 <!---
