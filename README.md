@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dagem A. Woldeyohannes
-- 👀 I am a CS undergrad sophomore
+- 👀 I am a frontend developer
 - 🌱 Check out my projects!
 - 📫 How to reach me ... (dagem.alemseged1@gmail.com)
 
