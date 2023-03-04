@@ -2,8 +2,6 @@
 
 I am currently doing the full-stack javascript course on 'The Odin Project'.
 
-I am also doing the ALX full-stack software engineering program.
-
 Looking forward to contribute to open-source projects!
 
 DM :- 'dagem.alemseged1@gmail.com'
