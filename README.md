@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Complete React Developer in 2023](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-- 🌱 I’m currently learning **Typescript, React Native and UI/UX**
+- 🌱 I’m currently learning **Typescript and React Native**
 
 - 👯 I’m looking to collaborate on **React projects**
 
